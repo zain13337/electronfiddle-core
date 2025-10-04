@@ -34,7 +34,7 @@
     "test:ci": "jest --runInBand --coverage"
   },
   "dependencies": {
-    "@electron/get": "^2.0.0",
+    "@electron/get": "^2.0.3",
     "debug": "^4.3.3",
     "env-paths": "^2.2.1",
     "extract-zip": "^2.0.1",
